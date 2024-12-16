@@ -1,4 +1,5 @@
 //Write a JSP program using JSTL Tags  to Display all Movies from the Database & Insert into the database table.
+//ADD POSTGRE & JSTL1.2 JAR TO LIBRARY AND LIB FOLDER --REFRESH
 
 //DisplayMovies.jsp
 <?xml version="1.0" encoding="ISO-8859-1" ?>
