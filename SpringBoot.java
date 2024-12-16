@@ -1,5 +1,5 @@
 //1.Simple Spring Boot application that prints a message.
-
+//add - H2, JDBC API, Postgre SQLDriver, Spring Boot dev tool, spring data JDBC , Spring react web, , spring web, spring web services
 //GreetingAppApplication.java
 
 package edu.met.p1;
